@@ -4,11 +4,11 @@ The public repository for Courier's Documentation
 ## Installing
 
 1. Select your platform:
-    1. [Linux 64 bit](downloads.courierconfig.com/latest/linux/amd64/linux_amd64.zip)
-    2. [Linux 32 bit](downloads.courierconfig.com/latest/linux/386/linux_386.zip)
-    3. [Mac OS Intel](downloads.courierconfig.com/latest/darwin/amd64/darwin_amd64.zip)
-    4. [Windows 64 bit](downloads.courierconfig.com/latest/windows/amd64/windows_amd64.zip)
-    5. [Windows 32 bit](downloads.courierconfig.com/latest/windows/386/windows_386.zip)
+    1. [Linux 64 bit](https://downloads.courierconfig.com/latest/linux_amd64.zip)
+    2. [Linux 32 bit](https://downloads.courierconfig.com/latest/linux_386.zip)
+    3. [Mac OS Intel](https://downloads.courierconfig.com/latest/darwin_amd64.zip)
+    4. [Windows 64 bit](https://downloads.courierconfig.com/latest/windows_amd64.zip)
+    5. [Windows 32 bit](https://downloads.courierconfig.com/latest/windows_386.zip)
 2. Unzip the file
 3. Execute the Courier executable in the root of this folder
 
